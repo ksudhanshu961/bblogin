@@ -5,12 +5,13 @@ This is voice command as well typed command tool to automatic login in BB accoun
 
 # Requirements
 
-1. Install selenium and pyfiglet library.
+1.Install selenium and pyfiglet library.
 
   pip install selenium
+  
   pip install pyfiglet
 
-# To Setup
+# To Setup [Now it's only supports chrome browser]
 
 > **For Windows Users**
     
@@ -79,7 +80,7 @@ This is voice command as well typed command tool to automatic login in BB accoun
   
 # Without Voice command
  
-  1. Yes you can use this tool without voice command. But you need to open command prompt and type to run that bblogin.py file.
+ 1.Yes you can use this tool without voice command. But you need to open command prompt and type to run that bblogin.py file.
   
   python bblogin.py
 
