@@ -1,5 +1,5 @@
 # bblogin
-This is voice command as well typed command tool to automatic login in BB account for CU students. Written in Python
+This is voice command as well as typed command tool to automatic login in BB account for CU students. Written in Python
 
 **Install Python Before Using this Tool**
 
