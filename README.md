@@ -15,7 +15,7 @@ This is voice command as well as typed command tool to automatic login in BB acc
 
 > **For Windows Users**
     
-    1. Git clone or Download this tool from https://github.com/zWR417H/bblogin.git
+    1. Git clone or Download this tool from https://github.com/ksudhanshu961/bblogin.git
     
     2. Now open command prompt & navigate to the bblogin downloaded folder.
           > You can use cd command to change your directory.
